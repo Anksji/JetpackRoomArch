@@ -7,12 +7,13 @@ This is small note application, I used Android jetpack and Room database archite
 
 
 
-
+##
+##
 
 
 MIT License
 
-Copyright (c) 2023 AD Raj
+Copyright (c) 2023 Ankit Dwivedi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
